@@ -1,1 +1,13 @@
-{}
+{
+    "data_coleta": "2025-04-02T23:43:59.412967+00:00",
+    "total_alertas": 0,
+    "alertas_pendentes": 0,
+    "alertas_resolvidos": 0,
+    "categorias": {
+        "DVR": 0,
+        "Antenas": 0,
+        "Switches": 0,
+        "Outros": 0
+    },
+    "detalhes": []
+}
