@@ -1,5 +1,37 @@
-{
-    "data_coleta": "2025-04-02T23:59:13.474699",
-    "eventos_ativos": [],
-    "historico_eventos": []
-}
+[
+    {
+        "eventid": 6789,
+        "clock": 1680489600,
+        "name": "CPU alta",
+        "status": 1,
+        "acknowledged": false
+    },
+    {
+        "eventid": 1234,
+        "clock": 1680403200,
+        "name": "Memória insuficiente",
+        "status": 0,
+        "acknowledged": true
+    },
+    {
+        "eventid": 9876,
+        "clock": 1680456000,
+        "name": "Rede inativa",
+        "status": 1,
+        "acknowledged": false
+    },
+    {
+        "eventid": 4567,
+        "clock": 1680439200,
+        "name": "Disco cheio",
+        "status": 0,
+        "acknowledged": true
+    },
+    {
+        "eventid": 5432,
+        "clock": 1680472800,
+        "name": "Servidor offline",
+        "status": 1,
+        "acknowledged": false
+    }
+]
