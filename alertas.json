@@ -1,5 +1,5 @@
 {
-    "data_coleta": "2025-04-03T01:17:50.760225",
+    "data_coleta": "2025-04-03T01:20:46.363307",
     "eventos_ativos": [
         {
             "trigger_id": "24060",
@@ -8,7 +8,8 @@
             "ultimo_evento": "1743638698",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24047",
@@ -17,7 +18,8 @@
             "ultimo_evento": "1743634844",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24034",
@@ -26,7 +28,8 @@
             "ultimo_evento": "1741526397",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24040",
@@ -35,7 +38,8 @@
             "ultimo_evento": "1741507317",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24051",
@@ -44,7 +48,8 @@
             "ultimo_evento": "1741503357",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24046",
@@ -53,7 +58,8 @@
             "ultimo_evento": "1741474016",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24055",
@@ -62,7 +68,8 @@
             "ultimo_evento": "1741133279",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24043",
@@ -71,7 +78,8 @@
             "ultimo_evento": "1741057500",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24049",
@@ -80,7 +88,8 @@
             "ultimo_evento": "1740701099",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24058",
@@ -89,7 +98,8 @@
             "ultimo_evento": "1739129785",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24044",
@@ -98,7 +108,8 @@
             "ultimo_evento": "1739129785",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24041",
@@ -107,7 +118,8 @@
             "ultimo_evento": "1739129785",
             "status": "Ativo",
             "host": "Monitoramento-Antenas",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24021",
@@ -116,7 +128,8 @@
             "ultimo_evento": "1739115266",
             "status": "Ativo",
             "host": "DVR - Nova Esperanca",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         },
         {
             "trigger_id": "24007",
@@ -125,7 +138,8 @@
             "ultimo_evento": "1739115238",
             "status": "Ativo",
             "host": "API-DVR-7200",
-            "ip": "Desconhecido"
+            "ip": "N\u00e3o informado",
+            "dns": "N\u00e3o informado"
         }
     ],
     "historico_eventos": [
