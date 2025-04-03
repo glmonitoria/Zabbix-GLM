@@ -1,5 +1,5 @@
 {
-    "data_coleta": "2025-04-03T01:40:51.977078+00:00",
+    "data_coleta": "2025-04-03T01:42:29.143684+00:00",
     "eventos_ativos": [
         {
             "trigger_id": "24060",
@@ -146,702 +146,702 @@
         {
             "evento_id": "105321",
             "descricao": "Antena Recife - PE - Off-line",
-            "hora_evento": "29 minutos atr\u00e1s",
+            "hora_evento": "31 minutos atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105320",
             "descricao": "Antena Recife - PE - Off-line",
-            "hora_evento": "35 minutos atr\u00e1s",
+            "hora_evento": "37 minutos atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105318",
             "descricao": "Antena S\u00e3o Paulo - SP - Off-line - Conex\u00e3o 3G",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "Warning",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105319",
             "descricao": "Antena S\u00e3o Paulo - SP - Off-line - Conex\u00e3o 4G",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105317",
             "descricao": "Antena Recife - PE - Off-line",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105316",
             "descricao": "Antena Recife - PE - Off-line",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105315",
             "descricao": "Linux: Number of installed packages has been changed",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105314",
             "descricao": "Linux: Operating system description has changed",
             "hora_evento": "1 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105311",
             "descricao": "Antena Fortaleza - CE - Off-line",
             "hora_evento": "2 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105281",
             "descricao": "Linux: Number of installed packages has been changed",
             "hora_evento": "2 horas atr\u00e1s",
             "severidade": "Warning",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105280",
             "descricao": "Linux: Operating system description has changed",
             "hora_evento": "2 horas atr\u00e1s",
             "severidade": "Information",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105279",
             "descricao": "Linux: Zabbix server has been restarted (uptime < 10m)",
             "hora_evento": "3 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105276",
             "descricao": "Linux: Zabbix server has been restarted (uptime < 10m)",
             "hora_evento": "3 horas atr\u00e1s",
             "severidade": "Warning",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105275",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105274",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105273",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
-            "hora_evento": "12 horas atr\u00e1s",
+            "hora_evento": "13 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105272",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "13 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105271",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "20 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105270",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "20 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105269",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "21 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105268",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "21 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105267",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "23 horas atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105266",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "23 horas atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105265",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105264",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105263",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105262",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105261",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105260",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105259",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105258",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105257",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105256",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105255",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105254",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105253",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105252",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105251",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105250",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105249",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105248",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105247",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105246",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105245",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105244",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "1 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105243",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105242",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105241",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105240",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105239",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105238",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105237",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105236",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "2 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105235",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "3 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105234",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "3 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105233",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "3 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105232",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "3 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105231",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "4 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105230",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "4 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105229",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105228",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105227",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105226",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105225",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105224",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105223",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105222",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105221",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105220",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105219",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105218",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105217",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105216",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105215",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105214",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "5 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105213",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105212",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105211",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105210",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105209",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105208",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105207",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105206",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105205",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105204",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105203",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105202",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105201",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105200",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "6 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105199",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105198",
             "descricao": "WebSite GLMonitoria - falha de acesso.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105197",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105196",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105195",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105194",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105193",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105192",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105191",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105190",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "High",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         },
         {
             "evento_id": "105189",
             "descricao": "Sem comunica\u00e7\u00e3o porta com a porta 37777 do DVR.",
             "hora_evento": "7 dias atr\u00e1s",
             "severidade": "Not classified",
-            "acknowledged": "N\u00e3o"
+            "status": "Resolvido"
         }
     ]
 }
